@@ -1,0 +1,46 @@
+[
+        {
+          "titulo": "Propuesta de matrimonio",
+          "lugar":"Cancún, Ciudad en México",
+          "image": "https://images.unsplash.com/photo-1619172691648-d753ba93e71d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=80"
+        },
+        { "titulo":"Tarde en bici",
+          "lugar": "Dumbo, Brooklyn, NY, USA",
+          "image": "https://images.unsplash.com/photo-1619194421773-466754e1d798?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=564&q=80"
+        },
+        {
+          "titulo": "Medusa",
+          "lugar": "Kristiansand, Norway",
+          "image": "https://images.unsplash.com/photo-1619186756356-189fdd10af53?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80"
+        },
+        {
+          "titulo": "Torre empresarial",
+          "lugar": "Warszawa, Polska",
+          "image": "https://images.unsplash.com/photo-1619114943404-3e80cb30c0fb?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=80"
+        },
+        {
+          "titulo": "Picnik nocturno",
+          "lugar": "Oranjestad, Aruba",
+          "image": "https://images.unsplash.com/photo-1619230913173-f643ef0d0911?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80"
+        },
+        {
+          "titulo": "Lago",
+          "lugar": "Seattle, Seattle, United States",
+          "image": "https://images.unsplash.com/photo-1619231846944-5811b6df1d8b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=676&q=80"
+        },
+        {
+          "titulo": "Fotografía Conceptual",
+          "lugar": "Saint Petersburg, Россия",
+          "image": "https://images.unsplash.com/photo-1619213068142-6514334f9987?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1400&q=80"
+        },
+        {
+          "titulo": "Metro",
+          "lugar": "Prince Street Station, New York, United States",
+          "image": "https://images.unsplash.com/photo-1560306843-cb7d19202801?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=634&q=80"
+        },
+        {
+          "titulo": "Buceo",
+          "lugar": "Deep Blue",
+          "image": "https://images.unsplash.com/photo-1502209524164-acea936639a2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1350&q=80"
+        }
+]
